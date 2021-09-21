@@ -10,6 +10,6 @@
 $ ```npm install```
 #### Wait for packages to be installed. Everything is ready now you can start working. Type in the console
 $ ```gulp```
-####When you're done with the project type ```Ctrl + c``` and
+#### When you're done with the project type ```Ctrl + c``` and
 $ ```gulp build```
-####This will create a dist folder with your complete release.
+#### This will create a dist folder with your complete release.
